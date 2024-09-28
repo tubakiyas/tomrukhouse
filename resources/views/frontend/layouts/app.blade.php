@@ -112,19 +112,19 @@
                                         </button>
                                         <nav class="sidebar-nav">
                                             <ul class="metismenu" id="mobile-menu">
-                                                <li><a class="has-arrow" href="{{ route('index') }}">Anasayfa</a>
+                                                <li><a href="{{ route('index') }}">Anasayfa</a>
                                                 </li>
-                                                <li><a class="has-arrow" href="{{ route('about') }}">Hakkımızda</a>
+                                                <li><a href="{{ route('about') }}">Hakkımızda</a>
                                                 </li>
-                                                <li><a class="has-arrow" href="{{ route('floor.plans') }}">Kat Planları</a>
+                                                <li><a href="{{ route('floor.plans') }}">Kat Planları</a>
                                                 </li>
-                                                <li><a class="has-arrow" href="{{ route('photos') }}">Fotoğraflar</a>
+                                                <li><a href="{{ route('photos') }}">Fotoğraflar</a>
                                                 </li>
-                                                <li><a class="has-arrow" href="{{ route('videos') }}">Videolar</a>
+                                                <li><a href="{{ route('videos') }}">Videolar</a>
                                                 </li>
-                                                <li><a class="has-arrow" href="{{ route('process') }}">Süreç</a>
+                                                <li><a href="{{ route('process') }}">Süreç</a>
                                                 </li>
-                                                <li><a class="has-arrow" href="{{ route('events') }}">Etkinlikler</a>
+                                                <li><a href="{{ route('events') }}">Etkinlikler</a>
                                                 </li>
                                                 <li><a href="{{ route('contact') }}">İletişim</a></li>
 
